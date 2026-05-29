@@ -1,8 +1,4 @@
-Here’s a **clean, professional GitHub README** you can directly use for your project.
 
----
-
-````markdown
 # 🚀 AI Social Media Content Generator
 
 An AI-powered, fully offline Social Media Content Generator built using **Python, Streamlit, and Ollama**.  
@@ -183,36 +179,7 @@ What are your thoughts on AI in marketing?
 * Strong focus on Prompt Engineering
 * Easy to extend and scale
 
----
-
-## 🚀 Future Improvements
-
-* Content calendar generator
-* Post scheduling system
-* PDF export feature
-* AI image generation
-* Multi-language support
-* Content performance analytics
-
----
 
 ## 👨‍💻 Author
+Nimish Pathak
 
-Built by **[Your Name]**
-AI/ML & Full-Stack Developer
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
-```
-
----
-
-If you want, I can also:
-✔ :contentReference[oaicite:0]{index=0}  
-✔ :contentReference[oaicite:1]{index=1}  
-✔ Or :contentReference[oaicite:2]{index=2}
-```
